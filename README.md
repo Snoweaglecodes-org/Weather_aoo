@@ -30,7 +30,10 @@ In login.dart we will use text fields to get the data necessary for the authenti
 In home.dart the page that to be displayed for authentication and contains the sign out functionality
 
 
-XGBClassifier
+XGBClassifier  // Needs to be updated by the main data. (NV Soheil) 
+
+
+// Importance hosuld be considered as None to <b> "TRUE" </b>
 XGBClassifier(base_score=None, booster=None, callbacks=None,
               colsample_bylevel=None, colsample_bynode=None,
               colsample_bytree=None, device=None, early_stopping_rounds=None,
