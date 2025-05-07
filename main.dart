@@ -64,7 +64,7 @@ class _WeatherHomeState extends State<WeatherHome> {
                         style: TextStyle(fontSize: 80),
                       ),
                       Text(
-                        'Do not forget to wear MASK when you go outside ',
+                        'Please follow the COVID 19 guidelines while entering into public spaces.',
                         style: TextStyle(fontSize: 22,color: Colors.redAccent,fontWeight: FontWeight.bold),
 
                       ),
